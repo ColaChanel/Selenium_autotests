@@ -1,0 +1,6 @@
+in cmd:
+cd C:\Users\igorv\OneDrive\Documents\GitHub\Selenium_autotests\environments
+selenium_env\Scripts\activate.bat
+python - запуск Кода доступен
+exit() - закрытие
+pip list - просмотр установленных библиотек
