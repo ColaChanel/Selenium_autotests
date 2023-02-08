@@ -4,3 +4,4 @@ selenium_env\Scripts\activate.bat
 python - запуск Кода доступен
 exit() - закрытие
 pip list - просмотр установленных библиотек
+https://cmd.readthedocs.io/commands.html
