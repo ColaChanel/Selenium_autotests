@@ -1,0 +1,2 @@
+# run fixture: pytest -s environments\selenium_course\text_fixtures\test_fixture1.py
+pytest -s -v -m smoke  environments\selenium_course\text_fixtures\test_fixture8.py
